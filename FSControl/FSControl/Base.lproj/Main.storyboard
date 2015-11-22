@@ -76,7 +76,7 @@
                         <constraints>
                             <constraint firstItem="Anq-dL-jIZ" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="09e-fi-6WT"/>
                             <constraint firstAttribute="trailing" secondItem="Anq-dL-jIZ" secondAttribute="trailing" id="21P-7F-ERN"/>
-                            <constraint firstItem="Anq-dL-jIZ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="YTd-Ia-8l5"/>
+                            <constraint firstItem="Anq-dL-jIZ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="Gc3-LH-BHA"/>
                         </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>

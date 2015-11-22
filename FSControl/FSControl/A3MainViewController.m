@@ -30,9 +30,13 @@
     //有几个子控制器
     NSLog(@"%@",self.childViewControllers);
     
+    //默认点击下标是0 的控制器.
+    [self switchToVcAtIndex:0];
+    
 }
 
 - (IBAction)clickBtn0:(id)sender {
+   
     [self switchToVcAtIndex:0];
 }
 
