@@ -19,3 +19,5 @@
 	    
 	    self.showingVc = willShowVc;
 	}
+####进阶版
+github跳转:<a href="https://github.com/FMountain/FSControl2">父子控制器2-进阶版</a>
